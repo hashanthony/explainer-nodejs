@@ -13,3 +13,5 @@ test*
 # please just ask.           #
 ##############################
 *.afdesign
+
+node_modules/
